@@ -1,6 +1,9 @@
 # Machine-Learning---Simple-Linear-Regression
 It is the repository containing Python Code and Dataset For Simple Linear Regression 
 
+Study Resources :
+  Google Drive: https://drive.google.com/drive/folders/1gTZt-gqZ3ntpYpKB35Yr48z_s0eC0Nvj?usp=sharing
+
 Required Software:
   Jupyter / Vs-code(jupyter extension).
   Anaconda navigator.
