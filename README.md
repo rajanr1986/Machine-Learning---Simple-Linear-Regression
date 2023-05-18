@@ -4,7 +4,7 @@ It is the repository containing Python Code and Dataset For Simple Linear Regres
 Study Resources :
   Google Drive       : https://drive.google.com/drive/folders/1gTZt-gqZ3ntpYpKB35Yr48z_s0eC0Nvj?usp=sharing
   Data Preprocessing : https://youtu.be/3vJ8xg5-jtA
-  Linear Regression  : 
+  Linear Regression  : https://youtu.be/mkoMJyBEQMY
 Required Software:
   Jupyter / Vs-code(jupyter extension).
   Anaconda navigator.
